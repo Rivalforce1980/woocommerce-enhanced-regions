@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'TD-NDJ' => 'N\'Djamena',
+  'TD-BA' => 'Batha',
+  'TD-LC' => 'Lac',
+  'TD-BG' => 'Bahr el Gazel',
+  'TD-BO' => 'Borkou',
+  'TD-EN' => 'Ennedi-Est',
+  'TD-EO' => 'Ennedi-Ouest',
+  'TD-GU' => 'Guéra',
+  'TD-HA' => 'Hadjer-Lamis',
+  'TD-KA' => 'Kanem',
+  'TD-LO' => 'Logone Occidental',
+  'TD-LR' => 'Logone Oriental',
+  'TD-MA' => 'Mandoul',
+  'TD-ME' => 'Mayo-Kebbi Est',
+  'TD-MO' => 'Mayo-Kebbi Ouest',
+  'TD-MC' => 'Moyen-Chari',
+  'TD-OD' => 'Ouaddaï',
+  'TD-SA' => 'Salamat',
+  'TD-SI' => 'Sila',
+  'TD-TA' => 'Tandjilé',
+  'TD-TI' => 'Tibesti',
+  'TD-WF' => 'Wadi Fira',
+  'TD-SD' => 'Salamat',
+);

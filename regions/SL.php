@@ -1,0 +1,9 @@
+<?php
+
+return array (
+  'SL-W' => 'Western Area',
+  'SL-E' => 'Eastern',
+  'SL-N' => 'Northern',
+  'SL-S' => 'Southern',
+  'SL-NW' => 'North West',
+);

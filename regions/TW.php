@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'TW-TPE' => 'Taipei City',
+  'TW-KHH' => 'Kaohsiung City',
+  'TW-NWT' => 'New Taipei City',
+  'TW-TXG' => 'Taichung City',
+  'TW-TNN' => 'Tainan City',
+  'TW-TAO' => 'Taoyuan City',
+  'TW-ILA' => 'Yilan County',
+  'TW-HUA' => 'Hualien County',
+  'TW-KIN' => 'Kinmen County',
+  'TW-NAN' => 'Nantou County',
+  'TW-PEN' => 'Penghu County',
+  'TW-PIF' => 'Pingtung County',
+  'TW-TTT' => 'Taitung County',
+  'TW-MIA' => 'Miaoli County',
+  'TW-HSQ' => 'Hsinchu County',
+  'TW-CYQ' => 'Chiayi County',
+  'TW-YUN' => 'Yunlin County',
+  'TW-CHA' => 'Changhua County',
+  'TW-KEE' => 'Keelung City',
+  'TW-HSZ' => 'Hsinchu City',
+  'TW-CYI' => 'Chiayi City',
+);

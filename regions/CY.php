@@ -1,0 +1,10 @@
+<?php
+
+return array (
+  'CY-01' => 'Nicosia',
+  'CY-02' => 'Limassol',
+  'CY-03' => 'Larnaca',
+  'CY-04' => 'Famagusta',
+  'CY-05' => 'Paphos',
+  'CY-06' => 'Kyrenia',
+);

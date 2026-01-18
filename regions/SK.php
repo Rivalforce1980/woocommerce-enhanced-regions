@@ -1,0 +1,12 @@
+<?php
+
+return array (
+  'SK-BC' => 'Banskobystrický kraj',
+  'SK-BL' => 'Bratislavský kraj',
+  'SK-KI' => 'Košický kraj',
+  'SK-NI' => 'Nitriansky kraj',
+  'SK-PV' => 'Prešovský kraj',
+  'SK-TC' => 'Trenčiansky kraj',
+  'SK-TA' => 'Trnavský kraj',
+  'SK-ZI' => 'Žilinský kraj',
+);

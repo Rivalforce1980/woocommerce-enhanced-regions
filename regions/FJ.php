@@ -1,0 +1,9 @@
+<?php
+
+return array (
+  'FJ-C' => 'Central',
+  'FJ-E' => 'Eastern',
+  'FJ-N' => 'Northern',
+  'FJ-W' => 'Western',
+  'FJ-R' => 'Rotuma',
+);

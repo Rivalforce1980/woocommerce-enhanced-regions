@@ -1,0 +1,27 @@
+<?php
+
+return array (
+  'MH-ALK' => 'Ailuk',
+  'MH-ALL' => 'Ailinglaplap',
+  'MH-ARN' => 'Arno',
+  'MH-AUR' => 'Aur',
+  'MH-EBN' => 'Ebon',
+  'MH-ENE' => 'Enewetak',
+  'MH-JAL' => 'Jaluit',
+  'MH-KIL' => 'Kili',
+  'MH-KWA' => 'Kwajalein',
+  'MH-LAE' => 'Lae',
+  'MH-LIB' => 'Lib',
+  'MH-LIK' => 'Likiep',
+  'MH-MAJ' => 'Majuro',
+  'MH-MAL' => 'Maloelap',
+  'MH-MEJ' => 'Mejit',
+  'MH-MIL' => 'Mili',
+  'MH-NAM' => 'Namorik',
+  'MH-NMU' => 'Namu',
+  'MH-RON' => 'Rongelap',
+  'MH-UJA' => 'Ujae',
+  'MH-UTI' => 'Utirik',
+  'MH-WTH' => 'Wotho',
+  'MH-WTJ' => 'Wotje',
+);

@@ -1,0 +1,8 @@
+<?php
+
+return array (
+  'SZ-HH' => 'Hhohho',
+  'SZ-LU' => 'Lubombo',
+  'SZ-MA' => 'Manzini',
+  'SZ-SH' => 'Shiselweni',
+);

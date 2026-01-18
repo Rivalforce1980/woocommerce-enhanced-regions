@@ -1,0 +1,16 @@
+<?php
+
+return array (
+  'GE-AB' => 'Abkhazia',
+  'GE-AJ' => 'Adjara',
+  'GE-GU' => 'Guria',
+  'GE-IM' => 'Imereti',
+  'GE-KA' => 'Kakheti',
+  'GE-KK' => 'Kvemo Kartli',
+  'GE-MM' => 'Mtskheta-Mtianeti',
+  'GE-RL' => 'Racha-Lechkhumi and Kvemo Svaneti',
+  'GE-SZ' => 'Samegrelo-Zemo Svaneti',
+  'GE-SJ' => 'Samtskhe-Javakheti',
+  'GE-SK' => 'Shida Kartli',
+  'GE-TB' => 'Tbilisi',
+);

@@ -1,0 +1,13 @@
+<?php
+
+return array (
+  'GA-1' => 'Estuaire',
+  'GA-2' => 'Haut-Ogooué',
+  'GA-3' => 'Moyen-Ogooué',
+  'GA-4' => 'Ngounié',
+  'GA-5' => 'Nyanga',
+  'GA-6' => 'Ogooué-Ivindo',
+  'GA-7' => 'Ogooué-Lolo',
+  'GA-8' => 'Ogooué-Maritime',
+  'GA-9' => 'Woleu-Ntem',
+);

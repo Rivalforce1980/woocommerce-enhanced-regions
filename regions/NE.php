@@ -1,0 +1,12 @@
+<?php
+
+return array (
+  'NE-8' => 'Niamey',
+  'NE-1' => 'Agadez',
+  'NE-2' => 'Diffa',
+  'NE-3' => 'Dosso',
+  'NE-4' => 'Maradi',
+  'NE-5' => 'Tahoua',
+  'NE-6' => 'Tillabéri',
+  'NE-7' => 'Zinder',
+);

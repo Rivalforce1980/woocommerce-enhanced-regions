@@ -1,0 +1,13 @@
+<?php
+
+return array (
+  'SM-01' => 'Acquaviva',
+  'SM-06' => 'Borgo Maggiore',
+  'SM-02' => 'Chiesanuova',
+  'SM-03' => 'Domagnano',
+  'SM-04' => 'Faetano',
+  'SM-05' => 'Fiorentino',
+  'SM-08' => 'Montegiardino',
+  'SM-07' => 'City of San Marino',
+  'SM-09' => 'Serravalle',
+);

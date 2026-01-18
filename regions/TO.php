@@ -1,0 +1,9 @@
+<?php
+
+return array (
+  'TO-01' => 'Eua',
+  'TO-02' => 'Ha\'apai',
+  'TO-03' => 'Niuas',
+  'TO-04' => 'Tongatapu',
+  'TO-05' => 'Vava\'u',
+);

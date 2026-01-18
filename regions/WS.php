@@ -1,0 +1,15 @@
+<?php
+
+return array (
+  'WS-AA' => 'A\'ana',
+  'WS-AL' => 'Aiga-i-le-Tai',
+  'WS-AT' => 'Atua',
+  'WS-FA' => 'Fa\'asaleleaga',
+  'WS-GE' => 'Gaga\'emauga',
+  'WS-GF' => 'Gaga\'ifomauga',
+  'WS-PA' => 'Palauli',
+  'WS-SA' => 'Satupa\'itea',
+  'WS-TU' => 'Tuamasaga',
+  'WS-VF' => 'Va\'a-o-Fonoti',
+  'WS-VS' => 'Vaisigano',
+);

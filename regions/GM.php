@@ -1,0 +1,10 @@
+<?php
+
+return array (
+  'GM-B' => 'Banjul',
+  'GM-L' => 'Lower River',
+  'GM-M' => 'Central River',
+  'GM-N' => 'North Bank',
+  'GM-U' => 'Upper River',
+  'GM-W' => 'West Coast',
+);

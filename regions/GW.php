@@ -1,0 +1,13 @@
+<?php
+
+return array (
+  'GW-BS' => 'Bissau',
+  'GW-BA' => 'Bafatá',
+  'GW-BM' => 'Biombo',
+  'GW-BL' => 'Bolama',
+  'GW-CA' => 'Cacheu',
+  'GW-GA' => 'Gabú',
+  'GW-OI' => 'Oio',
+  'GW-QU' => 'Quinara',
+  'GW-TO' => 'Tombali',
+);

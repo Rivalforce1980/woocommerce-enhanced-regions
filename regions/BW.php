@@ -1,0 +1,14 @@
+<?php
+
+return array (
+  'BW-CE' => 'Central',
+  'BW-GH' => 'Ghanzi',
+  'BW-KG' => 'Kgalagadi',
+  'BW-KL' => 'Kgatleng',
+  'BW-KW' => 'Kweneng',
+  'BW-NE' => 'North-East',
+  'BW-NW' => 'North-West',
+  'BW-SE' => 'South-East',
+  'BW-SO' => 'Southern',
+  'BW-CH' => 'Chobe',
+);

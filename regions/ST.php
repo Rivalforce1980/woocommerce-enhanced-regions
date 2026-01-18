@@ -1,0 +1,11 @@
+<?php
+
+return array (
+  'ST-P' => 'Príncipe',
+  'ST-01' => 'Água Grande',
+  'ST-02' => 'Cantagalo',
+  'ST-03' => 'Caué',
+  'ST-04' => 'Lembá',
+  'ST-05' => 'Lobata',
+  'ST-06' => 'Mé-Zóchi',
+);
