@@ -5,7 +5,7 @@ return array (
   'JO-IR' => __('Irbid', 'woocommerce-enhanced-regions'),
   'JO-AZ' => __('Zarqa', 'woocommerce-enhanced-regions'),
   'JO-BA' => __('Balqa', 'woocommerce-enhanced-regions'),
-  'JO-MN' => __('Ma\', 'woocommerce-enhanced-regions')an',
+  'JO-MN' => __('Ma\'an', 'woocommerce-enhanced-regions'),
   'JO-KA' => __('Karak', 'woocommerce-enhanced-regions'),
   'JO-MA' => __('Mafraq', 'woocommerce-enhanced-regions'),
   'JO-TA' => __('Tafilah', 'woocommerce-enhanced-regions'),

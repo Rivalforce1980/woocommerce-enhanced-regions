@@ -13,5 +13,5 @@ return array (
   'FR-NAQ' => __('Nouvelle-Aquitaine', 'woocommerce-enhanced-regions'),
   'FR-OCC' => __('Occitanie', 'woocommerce-enhanced-regions'),
   'FR-PDL' => __('Pays de la Loire', 'woocommerce-enhanced-regions'),
-  'FR-PAC' => __('Provence-Alpes-Côte d\', 'woocommerce-enhanced-regions')Azur',
+  'FR-PAC' => __('Provence-Alpes-Côte d\'Azur', 'woocommerce-enhanced-regions'),
 );

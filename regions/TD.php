@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'TD-NDJ' => __('N\', 'woocommerce-enhanced-regions')Djamena',
+  'TD-NDJ' => __('N\'Djamena', 'woocommerce-enhanced-regions'),
   'TD-BA' => __('Batha', 'woocommerce-enhanced-regions'),
   'TD-LC' => __('Lac', 'woocommerce-enhanced-regions'),
   'TD-BG' => __('Bahr el Gazel', 'woocommerce-enhanced-regions'),
